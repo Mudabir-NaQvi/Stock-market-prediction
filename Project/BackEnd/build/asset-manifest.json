@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b733374.css",
+    "main.js": "/static/js/main.4e3f3027.js",
+    "static/media/PSX.png": "/static/media/PSX.26cb85f95d19e62cc5c8.png",
+    "static/media/MEBL.png": "/static/media/MEBL.b96ddb2c8c1b23cf7c0e.png",
+    "static/media/MCB.png": "/static/media/MCB.8a54e0d14e6824ceb9cb.png",
+    "index.html": "/index.html",
+    "main.3b733374.css.map": "/static/css/main.3b733374.css.map",
+    "main.4e3f3027.js.map": "/static/js/main.4e3f3027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b733374.css",
+    "static/js/main.4e3f3027.js"
+  ]
+}
