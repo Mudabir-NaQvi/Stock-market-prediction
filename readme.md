@@ -47,5 +47,5 @@ As a recent computer science graduate, I am thrilled to have worked on a stock m
 The website provides two prediction modules for short-term and long-term predictions and allows users to explore historical data and future predictions. The monthly growth of each company was displayed on the website, and the predictions were made for all four variables: high, low, open, and close. The user-friendly interface made it possible for the website to provide valuable insights into the stock market trends.
 I had the opportunity to develop my skills in multiple areas, including data analysis, programming languages, and AI technologies. The use of Django and React frameworks helped to build a robust and scalable web application that was able to handle large amounts of data and provide seamless navigation. This project was a great learning experience, and I am proud of the work I have done. I am confident that the skills I developed during this project will serve me well in future software development projects.
 ## Interface
-![Interface](Attachments\Screenshot.jpg)
+![Interface](Attachments/Screenshot.jpg)
 
